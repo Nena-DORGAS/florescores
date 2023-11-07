@@ -1,0 +1,14 @@
+.col{
+    display: flex;
+    justify-content: center;
+    background-color: #262626;
+}
+
+.login-cadastro{
+    display: flex;
+    align-content: flex-end;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}

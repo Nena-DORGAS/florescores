@@ -1,0 +1,9 @@
+.footer-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    font-weight: bold;
+    flex-direction: row;
+    color: white;
+}
+
